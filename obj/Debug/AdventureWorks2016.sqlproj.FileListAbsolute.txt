@@ -1,0 +1,10 @@
+D:\SQLProjects\EY\VS\EY\AdventureWorks2016\bin\Debug\AdventureWorks2016.dacpac
+D:\SQLProjects\EY\VS\EY\AdventureWorks2016\bin\Debug\AdventureWorks2016.dll
+D:\SQLProjects\EY\VS\EY\AdventureWorks2016\bin\Debug\AdventureWorks2016.pdb
+D:\SQLProjects\EY\VS\EY\AdventureWorks2016\obj\Debug\AdventureWorks2016.sqlprojAssemblyReference.cache
+D:\SQLProjects\EY\VS\EY\AdventureWorks2016\obj\Debug\Model.xml
+D:\SQLProjects\EY\VS\EY\AdventureWorks2016\obj\Debug\refactor.xml
+D:\SQLProjects\EY\VS\EY\AdventureWorks2016\obj\Debug\postdeploy.sql
+D:\SQLProjects\EY\VS\EY\AdventureWorks2016\obj\Debug\predeploy.sql
+D:\SQLProjects\EY\VS\EY\AdventureWorks2016\obj\Debug\AdventureWorks2016.dll
+D:\SQLProjects\EY\VS\EY\AdventureWorks2016\obj\Debug\AdventureWorks2016.pdb

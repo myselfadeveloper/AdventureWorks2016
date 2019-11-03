@@ -1,0 +1,10 @@
+3/11/2019 7:14:24 PM	This log contains information about the import schema operation into project 'AdventureWorks2016' on computer 'ADI' by user 'Chaitanya'.
+3/11/2019 7:14:24 PM	Deserializing model
+3/11/2019 7:14:26 PM	Resolving model
+3/11/2019 7:14:27 PM	Visiting imported model for types
+3/11/2019 7:14:28 PM	Scanning project for duplicate elements
+3/11/2019 7:14:28 PM	Finished duplicate element processing
+3/11/2019 7:14:32 PM	Processing extra files
+3/11/2019 7:14:32 PM	Finished importing Data-tier Application file.
+3/11/2019 7:14:32 PM	A summary of the import was saved to the following location: D:\SQLProjects\EY\VS\EY\AdventureWorks2016\Import Schema Logs\AdventureWorks2016_20191103081424.log
+3/11/2019 7:14:32 PM	Click Finish to continue...
