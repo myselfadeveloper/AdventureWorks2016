@@ -1,3 +1,7 @@
+variables:
+  BuildConfiguration: release
+  BuildPlatform: any cpu
+  
 pool:
   name: Azure Pipelines
   vmImage: 'vs2017-win2016'
